@@ -1,2 +1,2 @@
 # ChineseChess
-SFML
+implement the chinese chess with C++ and SFML
